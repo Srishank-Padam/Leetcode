@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0665-non-decreasing-array](https://github.com/Srishank-Padam/Leetcode/tree/master/0665-non-decreasing-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Srishank-Padam/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Hash Table
 |  |
