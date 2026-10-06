@@ -9,10 +9,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Srishank-Padam/Leetcode/tree/master/0242-valid-anagram) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Srishank-Padam/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Srishank-Padam/Leetcode/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/Srishank-Padam/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0925-long-pressed-name](https://github.com/Srishank-Padam/Leetcode/tree/master/0925-long-pressed-name) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srishank-Padam/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -39,4 +41,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Srishank-Padam/Leetcode/tree/master/0678-valid-parenthesis-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Srishank-Padam/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
