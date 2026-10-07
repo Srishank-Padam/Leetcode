@@ -4,11 +4,13 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Srishank-Padam/Leetcode/tree/master/0001-two-sum) |
 | [0665-non-decreasing-array](https://github.com/Srishank-Padam/Leetcode/tree/master/0665-non-decreasing-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Srishank-Padam/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Srishank-Padam/Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Srishank-Padam/Leetcode/tree/master/0242-valid-anagram) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Srishank-Padam/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
