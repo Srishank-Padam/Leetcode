@@ -51,4 +51,8 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Srishank-Padam/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Srishank-Padam/Leetcode/tree/master/0242-valid-anagram) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Srishank-Padam/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
