@@ -53,6 +53,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Srishank-Padam/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Srishank-Padam/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Srishank-Padam/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Srishank-Padam/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Srishank-Padam/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Srishank-Padam/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Math
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Srishank-Padam/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
