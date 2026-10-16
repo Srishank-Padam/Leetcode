@@ -25,6 +25,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Srishank-Padam/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Srishank-Padam/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Srishank-Padam/Leetcode/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/Srishank-Padam/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -44,10 +45,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Srishank-Padam/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0925-long-pressed-name](https://github.com/Srishank-Padam/Leetcode/tree/master/0925-long-pressed-name) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Srishank-Padam/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0678-valid-parenthesis-string](https://github.com/Srishank-Padam/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
@@ -96,4 +99,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Srishank-Padam/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Srishank-Padam/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
