@@ -34,6 +34,7 @@
 | [0925-long-pressed-name](https://github.com/Srishank-Padam/Leetcode/tree/master/0925-long-pressed-name) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srishank-Padam/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Srishank-Padam/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/Srishank-Padam/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Srishank-Padam/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -96,6 +97,7 @@
 ## Math
 |  |
 | ------- |
+| [2409-count-days-spent-together](https://github.com/Srishank-Padam/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Srishank-Padam/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
 |  |
