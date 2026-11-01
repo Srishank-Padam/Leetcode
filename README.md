@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Srishank-Padam/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Srishank-Padam/Leetcode/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Srishank-Padam/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Srishank-Padam/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0665-non-decreasing-array](https://github.com/Srishank-Padam/Leetcode/tree/master/0665-non-decreasing-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Srishank-Padam/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Srishank-Padam/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Srishank-Padam/Leetcode/tree/master/0013-roman-to-integer) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Srishank-Padam/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2409-count-days-spent-together](https://github.com/Srishank-Padam/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Srishank-Padam/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
