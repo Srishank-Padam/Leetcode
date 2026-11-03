@@ -18,6 +18,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Srishank-Padam/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Srishank-Padam/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Srishank-Padam/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Srishank-Padam/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Srishank-Padam/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/Srishank-Padam/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Srishank-Padam/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Srishank-Padam/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
