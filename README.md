@@ -36,6 +36,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Srishank-Padam/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Srishank-Padam/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Srishank-Padam/Leetcode/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/Srishank-Padam/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Srishank-Padam/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Srishank-Padam/Leetcode/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/Srishank-Padam/Leetcode/tree/master/0678-valid-parenthesis-string) |
