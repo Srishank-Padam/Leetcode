@@ -10,6 +10,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Srishank-Padam/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Srishank-Padam/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0665-non-decreasing-array](https://github.com/Srishank-Padam/Leetcode/tree/master/0665-non-decreasing-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Srishank-Padam/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Srishank-Padam/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Srishank-Padam/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Srishank-Padam/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -61,6 +62,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Srishank-Padam/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Srishank-Padam/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0925-long-pressed-name](https://github.com/Srishank-Padam/Leetcode/tree/master/0925-long-pressed-name) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Srishank-Padam/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [0049-group-anagrams](https://github.com/Srishank-Padam/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Srishank-Padam/Leetcode/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Srishank-Padam/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Srishank-Padam/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Srishank-Padam/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Srishank-Padam/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Srishank-Padam/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -92,6 +95,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Srishank-Padam/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Srishank-Padam/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Srishank-Padam/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Srishank-Padam/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
