@@ -21,6 +21,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Srishank-Padam/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Srishank-Padam/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Srishank-Padam/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [4020-elevator-requests-i](https://github.com/Srishank-Padam/Leetcode/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,4 +138,8 @@
 |  |
 | ------- |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Srishank-Padam/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
+## Simulation
+|  |
+| ------- |
+| [4020-elevator-requests-i](https://github.com/Srishank-Padam/Leetcode/tree/master/4020-elevator-requests-i) |
 <!---LeetCode Topics End-->
