@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Srishank-Padam/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Srishank-Padam/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Srishank-Padam/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Srishank-Padam/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Srishank-Padam/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Srishank-Padam/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Srishank-Padam/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/Srishank-Padam/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Srishank-Padam/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0925-long-pressed-name](https://github.com/Srishank-Padam/Leetcode/tree/master/0925-long-pressed-name) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Srishank-Padam/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Srishank-Padam/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Srishank-Padam/Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Srishank-Padam/Leetcode/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Srishank-Padam/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Srishank-Padam/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -142,4 +145,12 @@
 |  |
 | ------- |
 | [4020-elevator-requests-i](https://github.com/Srishank-Padam/Leetcode/tree/master/4020-elevator-requests-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Srishank-Padam/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Srishank-Padam/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
