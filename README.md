@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Srishank-Padam/Leetcode/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/Srishank-Padam/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Srishank-Padam/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Srishank-Padam/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Srishank-Padam/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Srishank-Padam/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/Srishank-Padam/Leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Srishank-Padam/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Srishank-Padam/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0925-long-pressed-name](https://github.com/Srishank-Padam/Leetcode/tree/master/0925-long-pressed-name) |
@@ -83,6 +85,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Srishank-Padam/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Srishank-Padam/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Srishank-Padam/Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Srishank-Padam/Leetcode/tree/master/0242-valid-anagram) |
