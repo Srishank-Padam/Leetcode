@@ -21,6 +21,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Srishank-Padam/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Srishank-Padam/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Srishank-Padam/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Srishank-Padam/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Srishank-Padam/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Srishank-Padam/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Srishank-Padam/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Srishank-Padam/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Srishank-Padam/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Srishank-Padam/Leetcode/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Srishank-Padam/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
