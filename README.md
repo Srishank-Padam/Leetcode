@@ -52,6 +52,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Srishank-Padam/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Srishank-Padam/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Srishank-Padam/Leetcode/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Srishank-Padam/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Srishank-Padam/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
