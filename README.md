@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Srishank-Padam/Leetcode/tree/master/0175-combine-two-tables) |
+| [0511-game-play-analysis-i](https://github.com/Srishank-Padam/Leetcode/tree/master/0511-game-play-analysis-i) |
 ## Binary Search
 |  |
 | ------- |
