@@ -12,6 +12,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Srishank-Padam/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Srishank-Padam/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0665-non-decreasing-array](https://github.com/Srishank-Padam/Leetcode/tree/master/0665-non-decreasing-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Srishank-Padam/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Srishank-Padam/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Srishank-Padam/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Srishank-Padam/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -137,6 +138,7 @@
 | [0013-roman-to-integer](https://github.com/Srishank-Padam/Leetcode/tree/master/0013-roman-to-integer) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Srishank-Padam/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Srishank-Padam/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Srishank-Padam/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Srishank-Padam/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/Srishank-Padam/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Srishank-Padam/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -157,6 +159,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Srishank-Padam/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Srishank-Padam/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Srishank-Padam/Leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Srishank-Padam/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -177,4 +180,12 @@
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Srishank-Padam/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Srishank-Padam/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Srishank-Padam/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
