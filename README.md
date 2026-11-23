@@ -111,6 +111,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Srishank-Padam/Leetcode/tree/master/0175-combine-two-tables) |
+| [0196-delete-duplicate-emails](https://github.com/Srishank-Padam/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/Srishank-Padam/Leetcode/tree/master/0511-game-play-analysis-i) |
 ## Binary Search
 |  |
