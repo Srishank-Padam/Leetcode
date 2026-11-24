@@ -25,6 +25,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Srishank-Padam/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Srishank-Padam/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Srishank-Padam/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Srishank-Padam/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Srishank-Padam/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Srishank-Padam/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Srishank-Padam/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Srishank-Padam/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Srishank-Padam/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/Srishank-Padam/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Srishank-Padam/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/Srishank-Padam/Leetcode/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Srishank-Padam/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Srishank-Padam/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Srishank-Padam/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Srishank-Padam/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -181,6 +184,7 @@
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Srishank-Padam/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Srishank-Padam/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
 |  |
 | ------- |
@@ -189,4 +193,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Srishank-Padam/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Srishank-Padam/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
