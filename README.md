@@ -48,6 +48,7 @@
 | [0013-roman-to-integer](https://github.com/Srishank-Padam/Leetcode/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/Srishank-Padam/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Srishank-Padam/Leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Srishank-Padam/Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Srishank-Padam/Leetcode/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/Srishank-Padam/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0925-long-pressed-name](https://github.com/Srishank-Padam/Leetcode/tree/master/0925-long-pressed-name) |
@@ -133,12 +134,14 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Srishank-Padam/Leetcode/tree/master/0067-add-binary) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Srishank-Padam/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Srishank-Padam/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Srishank-Padam/Leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Srishank-Padam/Leetcode/tree/master/0067-add-binary) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Srishank-Padam/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Srishank-Padam/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Srishank-Padam/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -171,6 +174,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Srishank-Padam/Leetcode/tree/master/0067-add-binary) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Srishank-Padam/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3360-stone-removal-game](https://github.com/Srishank-Padam/Leetcode/tree/master/3360-stone-removal-game) |
 | [4020-elevator-requests-i](https://github.com/Srishank-Padam/Leetcode/tree/master/4020-elevator-requests-i) |
